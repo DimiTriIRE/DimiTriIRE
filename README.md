@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DimiTri
+- 👀 I’m interested in Software Developer Career
+- 🌱 I’m currently learning HTML, CSS, Javascript, Python & SQK+L 
+- 💞️ I’m looking to collaborate on projects to create my portfolio
+- 📫 How to reach me linkedin.com/in/dimitri-iurcu
